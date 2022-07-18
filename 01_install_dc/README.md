@@ -1,4 +1,4 @@
-# 01 Installing the Domain Controller 
+ # 01 Installing the Domain Controller 
 
 
 1. Use `sconfig` to:
@@ -12,3 +12,19 @@
 Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 ```
 
+```
+Get-NetIPAddress
+```
+```
+Get-DnsClientServerAddress 
+```
+
+```
+Set-DnsClientServerAddress  -InterfaceIndex {index} -ServerAddresses {ip.addr}
+```
+
+# Joining the Workstation to the domain 
+
+```
+Add-Computer -DomainName xyz.com - Credential xyz\Administrator -Force -Restart
+```
