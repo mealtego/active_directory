@@ -2,7 +2,7 @@ Employees
 Managers
 Executives
 Engineers
-Researches
+Researchers
 Developers
 Personnel
 Sales
