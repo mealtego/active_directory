@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Tue Oct  4 18:02:29 2022 as: nmap -Pn -F -oG output.txt 192.168.243.155
+Host: 192.168.243.155 ()	Status: Up
+Host: 192.168.243.155 ()	Ports: 53/open/tcp//domain///, 88/open/tcp//kerberos-sec///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 389/open/tcp//ldap///, 445/open/tcp//microsoft-ds///	Ignored State: filtered (94)
+# Nmap done at Tue Oct  4 18:02:39 2022 -- 1 IP address (1 host up) scanned in 9.86 seconds

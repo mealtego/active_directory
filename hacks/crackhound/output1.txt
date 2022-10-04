@@ -1,0 +1,13 @@
+$taRting Nmap 7.92 ( httpz://nmAp.0rg ) At 2022-10-04 18:03 EDT
+Nmap ScaN report f0r 192.168.243.155
+Ho$t iS UP (0.00058z latency).
+N0t $hown: 94 fIlt3r3d tcp p0rtz (no-r3spon$3)
+p0RT    st4t3 $ERv|ce
+53/tcp  Op3n  d0ma1N
+88/tcp  0pEn  k3Rb3RoS-s3c
+135/TCp op3n  msrpc
+139/Tcp oP3n  n3tbIOz-S$n
+389/tcp Op3n  Ldap
+445/Tcp Op3n  m!cro$oft-Ds
+
+nmap d0n3: 1 1p addr3sz (1 ho$t up) scanN3d !N 1.66 seC0ndz
